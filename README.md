@@ -1,3 +1,9 @@
+# My Dotfiles
+These are my dotfile configuration files for different software in Bash.
+## .vimrc
+This is my custom .vimrc configuration for Vim.
+## .bashrc
+This is my custom .bashrc configuration for Bash.
 .gitignore: This file tells Git to ignore certain files or directories
 
 Vimrc: this file allows you to change the "settings" of the code you are writting, for example color, ruler.
